@@ -1,3 +1,6 @@
+#Titanic Survival Prediction 
+
+
 1. Data Exploration and Loading:
 
 Downloaded the Titanic dataset from Kaggle.
